@@ -24,6 +24,7 @@
     line-height: normal;
     margin-bottom: 0px;
 }
+
 .banner-head {
     color: #FFF;
     text-align: center;
@@ -34,5 +35,45 @@
     line-height: 95px;
     margin-top: 0px;
     width: 632px;
+}
+
+/* main related styles */
+
+/* content 2 styles */
+.off {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.deals {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.HNYimage {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: 0px auto;
 }
 
