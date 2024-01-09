@@ -455,23 +455,147 @@
 .bag1 {
     margin-left: 70px;
     margin-right: 24px;
+    cursor: pointer;
+}
+
+.bag1:hover {
+    background-color: bisque;
 }
 
 .bag2 {
     margin-right: 24px;
+    cursor: pointer;
+}
+
+.bag2:hover {
+    border-color: bisque;
+}
+
+.shoe1 {
+    cursor: pointer;
+}
+
+.shoe1:hover {
+    border-color: bisque;
 }
 
 .shoe2 {
     margin-left: 70px;
     margin-right: 24px;
     margin-top: 24px;
+    cursor: pointer;
+}
+
+.shoe2:hover {
+    border-color: bisque;
 }
 
 .glass {
     margin-right: 24px;
     margin-top: 24px;
+    cursor: pointer;
+}
+
+.glass:hover {
+    border-color: bisque;
 }
 
 .bracelet {
     margin-top: 24px;
+    cursor: pointer;
+}
+
+.bracelet:hover {
+    border-color: bisque;
+}
+
+/* content 8 styles */
+
+.content8 {
+    border-radius: 16px;
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.email-icon {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.title-for8 {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 0px;
+    margin-bottom: 22px;
+}
+
+.description-for8 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
+    margin-top: 0px;
+    margin-bottom: 48px;
+}
+.email-subs-btn {
+    gap: 0px;
+    padding: 0px;
+    display: block;
+}
+.input-btn {
+    width: 438px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    border-style: none;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: left;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 0px;
+}
+
+.btn-subs {
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border-style: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    padding: 0px;
+    margin-left: -5px;
 }
