@@ -401,3 +401,77 @@
     top: 433px;
     z-index: -1;
 }
+
+/* .content6 {
+    margin-bottom: 120px;
+} */
+
+/* content 7 styles  */
+
+.content7 {
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.text-for7 {
+    margin-top: 800px;
+    margin-left: 70px;
+}
+
+.heading-for7 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.sub-heading-for7 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+
+.description-for7 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 0px;
+    margin-bottom: 48px;
+    width: 896px;
+}
+
+.bag1 {
+    margin-left: 70px;
+    margin-right: 24px;
+}
+
+.bag2 {
+    margin-right: 24px;
+}
+
+.shoe2 {
+    margin-left: 70px;
+    margin-right: 24px;
+    margin-top: 24px;
+}
+
+.glass {
+    margin-right: 24px;
+    margin-top: 24px;
+}
+
+.bracelet {
+    margin-top: 24px;
+}
